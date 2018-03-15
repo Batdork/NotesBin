@@ -3,7 +3,7 @@ A Very Secure Notes Keeper With Multi-Users Authentication System Using 128-Bit 
 
 # Instructions
 1) Extract All Files From Downloaded Folder.     
-2) Simply Run "NotesBin.exe" From The NotesBin-Master Folder.
+2) Simply Run "NotesBin.exe" From The NotesBin Folder.
 
 # Older Versions
 Older Versions Can Be Found Here 
